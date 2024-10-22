@@ -1,5 +1,5 @@
 # Hey, I'm Natalia Rico! 👋
-
+![## Hi There, I'm Natalia](https://raw.githubusercontent.com/Nataliara28/nataliara28/main/image.webp)
 I'm a **passionate Software Engineer** with over **4 years of experience** in **software development** and **mentoring**. 
 My focus is on creating **well-designed, scalable applications** while emphasizing **clean code**, **user experience**, and **continuous learning**. 
 My background is in Education and I hold two **Master's degrees in Physical Education and Health**, validated by **Universidad de Jaen** and **Universidad de Huelva**.
